@@ -4,4 +4,3 @@
 📚 Interested in algorithms, software development and AI  
 🧑‍🎓 Always learning, always improving
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ld-duarte&layout=compact)
